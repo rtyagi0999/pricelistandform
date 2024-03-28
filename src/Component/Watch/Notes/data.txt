@@ -1,0 +1,36 @@
+//data
+let [watches,Setwatches]= useState([
+{
+id:"AA001",
+imageurl: "https://m.media-amazon.com/images/I/71VxRe7HeKL._AC_UY1000_.jpg",
+name:"Rolex watch",
+price :1000,
+qty : 2
+
+},
+{
+    id:"AA002",
+    imageurl: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MT613ref_VW_34FR+watch-49-titanium-ultra2_VW_34FR+watch-face-49-trail-ultra2_VW_34FR?wid=2000&hei=2000&fmt=png-alpha&.v=1694507270905",
+    name:"Samsung",
+    price :2000,
+    qty : 5
+    
+    },
+    {
+        id:"AA003",
+        imageurl: "https://rukminim2.flixcart.com/image/850/1000/kfeamq80/smartwatch/a/u/s/ios-mydr2hn-a-apple-original-imafvvev9qsvhhgt.jpeg?q=90&crop=false",
+        name:"Apple",
+        price :1500,
+        qty : 3
+        
+        },
+        {
+            id:"AA004",
+            imageurl: "https://images-cdn.ubuy.co.in/65749e4f2d0a7e4ad62f1459-luch-one-hand-mechanical-wrist-watch.jpg",
+            name:"Oppo",
+            price :700,
+            qty : 10
+            
+            }
+
+]);
